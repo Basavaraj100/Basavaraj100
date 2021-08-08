@@ -8,4 +8,6 @@ Libraries & Tools: NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, netCDF4,Xarra
 
 Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics.
 
-How to reach me 📱 benkibijali@gmail.com 7795183792
+**How to reach me** 
+benkibijali@gmail.com
+7795183792
