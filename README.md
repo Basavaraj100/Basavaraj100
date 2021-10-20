@@ -1,4 +1,4 @@
-Hi there 👋🏻 I am post graduate student from IIT KHARAGPUR in the specialization of Land and water resources engineering. Enthusiast towards data science and completed Post graduate data science engineering programme from Greate Learning.
+Hi there 👋🏻 I am post graduate student from IIT KHARAGPUR in the specialization of Land and water resources engineering. Enthusiast towards data science. Completed Post graduate data science engineering programme from Greate Learning.
 
 Things I'm good at 🔥 Domain:Data science, Machinea learning, Data analysis.
 
